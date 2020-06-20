@@ -1,0 +1,30 @@
+{
+    "[markdown]": {},
+    "[python]": {},
+    "editor.fontWeight": "300", // Regular
+    "editor.fontFamily": "fira code",
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": false,
+    "code-runner.showExecutionMessage": false,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.saveFileBeforeRun": true,
+    "workbench.iconTheme": "ayu",
+    "workbench.colorTheme": "Dracula",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.settings.useSplitJSON": true,
+    "python.pythonPath": "/usr/bin/python3",
+    "python.formatting.provider": "black",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "window.zoomLevel": 0,
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName"
+    },
+    "zenMode.centerLayout": false,
+    "zenMode.fullScreen": false,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideTabs": false,
+}

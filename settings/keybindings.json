@@ -1,0 +1,11 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "alt+numpad_add",
+        "command": "editor.action.fontZoomIn"
+    },
+    {
+        "key": "alt+numpad_subtract",
+        "command": "editor.action.fontZoomOut"
+    }
+]
